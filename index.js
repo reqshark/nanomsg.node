@@ -1,1 +1,1 @@
-module.exports = require('bindings')('nanomsg.node')
+module.exports = require('./lib')
