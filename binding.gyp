@@ -1,10 +1,10 @@
 {
-  "targets": [
+  'targets': [
     {
-      "target_name": "nanomsg",
-      "sources": [ "binding.cc" ],
-  	  "libraries": [
-  	     "-lnanomsg"
+      'target_name: 'nanomsg',
+      'sources': [ 'src/main.cc' ],
+  	  'libraries': [
+  	     '-lnanomsg'
 	  ]
     }
   ]
