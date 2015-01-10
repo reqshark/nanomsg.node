@@ -1,1 +1,1 @@
-module.exports = require('./build/Release/nanomsg');
+module.exports = require('bindings')('nanomsg.node')

@@ -1,5 +1,4 @@
 <h2>nanomsg.node: nanomsg node.js bindings</h2><br>
-<h3>License: Beerware</h3>
 <p>example usage:</p><br>
 <code>
 var nn = require('nanomsg.node')<br>
@@ -53,3 +52,6 @@ NN_PUSH, NN_PULL<br>
 NN_PUB, NN_SUB<br>
 NN_BUS<br>
 <br>
+
+# License
+Beerware
